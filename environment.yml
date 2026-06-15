@@ -28,6 +28,7 @@ dependencies:
   - matplotlib
   - cartopy
   - folium
+  - sqlite>=3.39.0
   # pip
   - pip
   - pip:
