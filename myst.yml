@@ -21,24 +21,40 @@ project:
         - file: notebooks/gdex_intro/submission.ipynb
     - title: Services
       children:
-        - file: notebooks/services/zarr_workflow.ipynb
-        - file: notebooks/services/tds_xarray.ipynb
-        - file: notebooks/services/zarr_intro.ipynb
-        - file: notebooks/services/api_subset.ipynb
-        - file: notebooks/services/download_workflow.ipynb
-        - file: notebooks/services/api_metadata.ipynb
-        - file: notebooks/services/posix_intro.ipynb
-        - file: notebooks/services/download_intro.ipynb
-        - file: notebooks/services/api_intro.ipynb
-        - file: notebooks/services/globus_intro.ipynb
-        - file: notebooks/services/tds_intro.ipynb
-        - file: notebooks/services/tds_siphon.ipynb
+        - title: TDS
+          children:
+            - file: notebooks/services/tds_intro.ipynb
+            - file: notebooks/services/tds_xarray.ipynb
+            - file: notebooks/services/tds_siphon.ipynb
+        - title: Zarr
+          children:
+            - file: notebooks/services/zarr_intro.ipynb
+            - file: notebooks/services/zarr_workflow.ipynb
+        - title: API
+          children:
+            - file: notebooks/services/api_intro.ipynb
+            - file: notebooks/services/api_subset.ipynb
+            - file: notebooks/services/api_metadata.ipynb
+        - title: Download
+          children:
+            - file: notebooks/services/download_intro.ipynb
+            - file: notebooks/services/download_workflow.ipynb
+        - title: POSIX
+          children:
+            - file: notebooks/services/posix_intro.ipynb
+        - title: Globus
+          children:
+            - file: notebooks/services/globus_intro.ipynb
     - title: Workflows
       children:
-        - file: notebooks/workflows/era5.ipynb
-        - file: notebooks/workflows/hi-res.ipynb
-        - file: notebooks/workflows/GCM.ipynb
-        - file: notebooks/workflows/jra3q.ipynb
+        - title: Reanalysis
+          children:
+            - file: notebooks/workflows/era5.ipynb
+            - file: notebooks/workflows/jra3q.ipynb
+        - title: Model Simulations
+          children:
+            - file: notebooks/workflows/GCM.ipynb
+            - file: notebooks/workflows/hi-res.ipynb
         - file: notebooks/workflows/data_fusion.ipynb
         - file: notebooks/workflows/observations.ipynb
   jupyter:
