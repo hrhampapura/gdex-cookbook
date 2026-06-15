@@ -18,6 +18,7 @@ dependencies:
   - fastparquet
   - kerchunk
   # Remote & Cloud File Access
+  - requests
   - fsspec
   - aiohttp
   # Remote Data Access / Catalogs
