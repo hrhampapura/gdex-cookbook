@@ -1,4 +1,4 @@
-# (Replace_with_your_title) Cookbook
+# GDEX Cookbook
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
@@ -20,8 +20,8 @@ First Author, Second Author, etc. _Acknowledge primary content authors here! You
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+<a href="https://github.com/ProjectPythia/gdex-cookbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProjectPythia/gdex-cookbook" />
 </a>
 
 ## Structure
