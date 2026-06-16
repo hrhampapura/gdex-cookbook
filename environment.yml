@@ -15,6 +15,7 @@ dependencies:
   - scipy
   - rioxarray
   - xradar
+  - cmweather
   # File Formats & I/O
   - netcdf4
   - h5netcdf
