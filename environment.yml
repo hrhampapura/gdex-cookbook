@@ -12,6 +12,8 @@ dependencies:
   - xarray
   - dask
   - cf-units
+  - scipy
+  - rioxarray
   # File Formats & I/O
   - netcdf4
   - zarr>=3.1.6     # pin for stable version3

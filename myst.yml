@@ -55,9 +55,13 @@ project:
         - title: Model Simulations
           children:
             - file: notebooks/workflows/cesm2_lens.ipynb
-            - file: notebooks/workflows/hi-res.ipynb
+            - file: notebooks/workflows/mesaclip.ipynb
+            - file: notebooks/workflows/conus404.ipynb
+        - title: Observations
+          children:
+            - file: notebooks/workflows/hadisst.ipynb
+            - file: notebooks/workflows/radar.ipynb
         - file: notebooks/workflows/data_fusion.ipynb
-        - file: notebooks/workflows/observations.ipynb
   jupyter:
       binder:
         url: https://binder.projectpythia.org
