@@ -22,5 +22,6 @@ authors:
   
   - name: GDEX Cookbook contributors # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/gdex-cookbook/graphs/contributors"
+    
 title: "GDEX Cookbook"
 abstract: "This Project Pythia cookbook demonstrates data access and services provided by NSF NCAR's Geoscience Data Exchange (GDEX), which is a major open data repository"
