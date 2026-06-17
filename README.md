@@ -10,7 +10,7 @@ Geoscience Data Exchange is ..... This Project Pythia Cookbook covers ... (repla
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+NSF NCAR's Geoscience Data Exchange (GDEX) hosts thousands of freely accessible geoscience datasets — from global reanalyses like ERA5 and JRA-3Q to climate model output and observational records — but knowing how to find, access, and work with that data can be a significant barrier for new users. This cookbook removes that barrier. By the end, you will know how to discover datasets on GDEX, choose the right access method for your workflow (bulk download, THREDDS/OPeNDAP streaming, Zarr cloud access, Globus, or the REST API), and apply those skills to real datasets across a range of geoscience workflows. You will also learn how to submit your own data to GDEX for long-term stewardship and citation.
 
 ## Authors
 

@@ -13,7 +13,6 @@ project:
     - title: Preamble
       children:
         - file: notebooks/how-to-cite.md
-        - file: notebooks/notebook-template.ipynb
     - title: GDEX Introduction
       children:
         - file: notebooks/gdex_intro/gdex_intro.ipynb
