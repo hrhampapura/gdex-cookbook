@@ -52,8 +52,8 @@ project:
         - title: Model Simulations
           children:
             - file: notebooks/workflows/cesm2_lens.ipynb
-            - file: notebooks/workflows/conus404.ipynb
             - file: notebooks/workflows/na-cordex.ipynb
+            - file: notebooks/workflows/conus404.ipynb
         - title: Observations
           children:
             - file: notebooks/workflows/hadisst.ipynb
