@@ -21,12 +21,6 @@ project:
       github: chiaweh2
       affiliations:
         - ncar
-    - name: Mya Sears
-      orcid: 0009-0003-5870-7498
-      github: myasea8
-      affiliations:
-        - ncar
-    - name: GDEX Cookbook contributors
       url: https://github.com/ProjectPythia/gdex-cookbook/graphs/contributors
   affiliations:
     - id: ncar

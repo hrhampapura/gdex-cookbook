@@ -17,7 +17,6 @@ NSF NCAR's Geoscience Data Exchange (GDEX) hosts thousands of freely accessible 
 [Harsha R. Hampapura](https://github.com/hrhampapura)
 [Riley Conroy](https://github.com/rpconroy)
 [Chia-Wei Hsu](https://github.com/chiaweh2)
-[Mya Sears](https://github.com/myasea8)
 
 ### Contributors
 
