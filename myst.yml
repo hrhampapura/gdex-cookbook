@@ -26,7 +26,6 @@ project:
       github: myasea8
       affiliations:
         - ncar
-    - name: GDEX Cookbook contributors
       url: https://github.com/ProjectPythia/gdex-cookbook/graphs/contributors
   affiliations:
     - id: ncar
