@@ -27,15 +27,37 @@ NSF NCAR's Geoscience Data Exchange (GDEX) hosts thousands of freely accessible 
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+This cookbook is organized into three main sections — **GDEX Introduction**,
+**Services**, and **Example Workflows** — building from orientation, to access
+methods, to complete analyses.
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### GDEX Introduction
 
-(Add content for this section, e.g., "The foundational content includes ... ")
+A high-level tour of what GDEX is and who it serves: what the repository holds, the
+services it offers for accessing and contributing data, how it enables science, and
+how to submit your own datasets.
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### Services
 
-(Add content for this section, e.g., "Example workflows include ... ")
+The core access toolkit — each subsection covers one way to get data out of GDEX,
+with a short introduction plus hands-on notebooks:
+
+- **TDS** — the THREDDS Data Server: OPeNDAP and remote subsetting via xarray and Siphon
+- **Zarr/Kerchunk** — Analysis-Ready, Cloud-Optimized access to virtual Zarr stores
+- **API** — programmatic dataset discovery, metadata, and subsetting
+- **Direct Download** — pulling files over HTTPS
+- **POSIX** — direct filesystem access on NSF NCAR HPC
+- **Globus** — high-performance transfer of large datasets
+
+### Example Workflows
+
+End-to-end, dataset-specific analyses that put those services to work — each streams
+data remotely (no bulk downloads) and produces a diagnostic or visualization:
+
+- **Reanalysis** — ERA5 precipitation and JRA-3Q sea-level pressure
+- **Model Simulations** — CESM2 Large Ensemble, NA-CORDEX, and CONUS404
+- **Observations** — HadISST sea surface temperature and S-Pol radar
+- **Data Fusion** — combining wind-profiler observations with ERA5
 
 ## Running the Notebooks
 
