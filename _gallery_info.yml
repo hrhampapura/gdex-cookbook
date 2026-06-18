@@ -1,6 +1,13 @@
 thumbnail: gdex_logo.png
 tags:
   domains:
-    - sampledomain
+    - climate
+    - siphon
+    - atmosphere
+    - zarr
+    - Cook-off 2026
   packages:
-    - samplepackage
+    - matplotlib
+    - dask
+    - xarray
+    - pelicanfs
