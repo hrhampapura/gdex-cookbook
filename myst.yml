@@ -43,7 +43,6 @@ project:
         - file: notebooks/gdex_intro/gdex_intro.ipynb
         - file: notebooks/gdex_intro/services.ipynb
         - file: notebooks/gdex_intro/enabling_science.ipynb
-        - file: notebooks/gdex_intro/submission.ipynb
     - title: Services
       children:
         - file: notebooks/services/services_intro.md
