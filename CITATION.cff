@@ -20,14 +20,5 @@ authors:
     website: https://github.com/chiaweh2
     affiliation: NSF NCAR
 
-  - family-names: Sears
-    given-names: Mya
-    orcid: https://orcid.org/0009-0003-5870-7498
-    website: https://github.com/myasea8
-    affiliation: NSF NCAR
-  
-  - name: GDEX Cookbook contributors # use the 'name' field to acknowledge organizations
-    website: "https://github.com/ProjectPythia/gdex-cookbook/graphs/contributors"
-    
 title: "GDEX Cookbook"
 abstract: "This Project Pythia cookbook demonstrates data access and services provided by NSF NCAR's Geoscience Data Exchange (GDEX), which is a major open data repository"
