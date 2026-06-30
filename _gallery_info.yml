@@ -11,3 +11,5 @@ tags:
     - dask
     - xarray
     - pelicanfs
+  events:
+    - Cook-off 2026
